@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+	div {
+	background-color: lavender
+	width: 300px;
+	border:15px #020202;
+	padding: 50px;
+	margin: 20px;
+	}
+		
